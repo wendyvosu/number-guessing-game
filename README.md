@@ -23,7 +23,6 @@ Technical Details:
 
 Technical Challenges: 
 -Preventing page refreshing once the functions have passed. 
--
 
 Future Improvements: 
 -Modify the script so that the user is restricted from guessing numbers which fall out of the possible range of the number. 
