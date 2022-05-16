@@ -32,9 +32,9 @@ Built with HTML, CSS, JavaScript, and the DOM on VS Code.
 
 Approach Taken
 -
--First, I wrote out the game in pseudocode to detail how I wanted the game to function. 
--Then, I decided to build the scripts necessary for the game to function. I built the scripts into each HTML page that required it. 
--Finally, I added styles to the index and other HTML files. 
+- First, I wrote out the game in pseudocode to detail how I wanted the game to function. 
+- Then, I decided to build the scripts necessary for the game to function. I built the scripts into each HTML page that required it. 
+- Finally, I added styles to the index and other HTML files. 
 
 Technical Details
 -
