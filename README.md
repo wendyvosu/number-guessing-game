@@ -1,25 +1,28 @@
 # number-guessing-game
 
-Wireframe
+Wireframe: 
 
-Explanations of Specific Technologies
--Built with HTML, CSS, JavaScript, and the DOM on VS Code
+Explanations of Specific Technologies: 
+-Built with HTML, CSS, JavaScript, and the DOM on VS Code.
 
-Approach Taken
+Approach Taken: 
 -First, I wrote out the game in pseudocode to detail how I wanted the game to function. 
 -Then, I decided to build the scripts necessary for the game to function. I built the scripts into each HTML page that required it. 
 -Finally, I added styles to the index and other HTML files. 
 
-Unsolved Problems
+Unsolved Problems: 
 
-Link to Hosted Site
+Link to Hosted Site: 
 https://wendyvosu.github.io/number-guessing-game/
 
-Installation Instructions
+Installation Instructions: 
 -There is no installation necessary to play the game. The user may access the game through the "Link to Hosted Site".
 
-Technical Details
+Technical Details: 
 
-Technical Challenges
+Technical Challenges: 
 
-Future Improvements
+Future Improvements: 
+-Modify the script so that the user is restricted from guessing numbers which fall out of the possible range of the number. 
+-Modify the script so that genie (the computer) is unable to make the same guess multiple times by using an array. 
+-Additional styling adjustments. 
