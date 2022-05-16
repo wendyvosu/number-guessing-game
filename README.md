@@ -36,10 +36,6 @@ Approach Taken
 -Then, I decided to build the scripts necessary for the game to function. I built the scripts into each HTML page that required it. 
 -Finally, I added styles to the index and other HTML files. 
 
-Unsolved Problems
--
--Minor styling issues.
-
 Technical Details
 -
 -The script of the game uses four separate functions: checking the user's guess, checking the computer's guess, ending the game, and resetting the game. 
@@ -47,6 +43,9 @@ Technical Details
 Technical Challenges
 -
 -Preventing page refreshing once the functions have passed. 
+Unsolved Problems
+-
+-Minor styling issues.
 
 Future Improvements
 -
