@@ -9,7 +9,7 @@ Installation Instructions
 -
 -There is no installation necessary to play the game. The user may access the game through the "Link to Hosted Site".
 
-How to Play 
+**How to Play**
 -
 ### Objective
 The player wins if they are able to guess the number correctly.
