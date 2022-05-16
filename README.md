@@ -43,6 +43,7 @@ Technical Details
 Technical Challenges
 -
 -Preventing page refreshing once the functions have passed. 
+
 Unsolved Problems
 -
 -Minor styling issues.
