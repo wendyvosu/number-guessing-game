@@ -19,10 +19,12 @@ Installation Instructions:
 -There is no installation necessary to play the game. The user may access the game through the "Link to Hosted Site".
 
 Technical Details: 
+-The script of the game uses four separate functions: checking the user's guess, checking the computer's guess, ending the game, and resetting the game. 
 
 Technical Challenges: 
 
+
 Future Improvements: 
 -Modify the script so that the user is restricted from guessing numbers which fall out of the possible range of the number. 
--Modify the script so that genie (the computer) is unable to make the same guess multiple times by using an array. 
+-Modify the script so that the computer is unable to make the same guess multiple times by using an array. 
 -Additional styling adjustments. 
