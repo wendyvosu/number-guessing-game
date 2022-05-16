@@ -50,6 +50,6 @@ Unsolved Problems
 
 Future Improvements
 -
--Modify the script so that the user is restricted from guessing numbers which fall out of the possible range of the number. 
--Modify the script so that the computer is unable to make the same guess multiple times by using an array. 
--Additional styling adjustments. 
+- Modify the script so that the user is restricted from guessing numbers which fall out of the possible range of the number. 
+- Modify the script so that the computer is unable to make the same guess multiple times by using an array. 
+- Additional styling adjustments. 
