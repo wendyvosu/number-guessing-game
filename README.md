@@ -1,6 +1,6 @@
 # number-guessing-game
 Play Now
--
+
 Link to Hosted Site
 -
 https://wendyvosu.github.io/number-guessing-game/
@@ -11,7 +11,7 @@ Installation Instructions
 
 How to Play 
 -
-###Objective
+### Objective
 The player wins if they are able to guess the number correctly.
 
 The player will choose between difficulty modes: easy, medium, and impossible. The ranges of the difficulty modes are as follows:
