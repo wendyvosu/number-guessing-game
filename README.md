@@ -22,7 +22,8 @@ Technical Details:
 -The script of the game uses four separate functions: checking the user's guess, checking the computer's guess, ending the game, and resetting the game. 
 
 Technical Challenges: 
-
+-Preventing page refreshing once the functions have passed. 
+-
 
 Future Improvements: 
 -Modify the script so that the user is restricted from guessing numbers which fall out of the possible range of the number. 
