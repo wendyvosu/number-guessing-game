@@ -11,6 +11,7 @@ Approach Taken:
 -Finally, I added styles to the index and other HTML files. 
 
 Unsolved Problems: 
+-Minor styling issues.
 
 Link to Hosted Site: 
 https://wendyvosu.github.io/number-guessing-game/
