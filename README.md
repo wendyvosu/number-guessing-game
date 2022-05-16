@@ -15,9 +15,9 @@ Installation Instructions
 The player wins if they are able to guess the number correctly.
 
 1. The player will choose between difficulty modes: easy, medium, and impossible. The ranges of the difficulty modes are as follows:
-- Easy: 0 - 100
-- Medium: 0 - 200
-- Impossible: 0 - 300
+  - Easy: 0 - 100
+  - Medium: 0 - 200
+  - Impossible: 0 - 300
 2. The player will input an integer guess. The input number will be compared to the randomly chosen number and return whether the number is higher, lower, or the correct number. 
 3. If the player guesses incorrectly, the player loses a turn. Each time the player loses a turn, genie will take a turn guessing a number. Both the player and genie is allowed 10 turns each. Once the player is out of turns and is unable to guess the correct number, they lose to genie.
 
