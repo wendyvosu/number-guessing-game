@@ -7,7 +7,7 @@ https://wendyvosu.github.io/number-guessing-game/
 
 Installation Instructions
 -
--There is no installation necessary to play the game. The user may access the game through the "Link to Hosted Site".
+-There is no installation necessary to play the game. The game can be accessed through the "Link to Hosted Site".
 
 **How to Play**
 -
