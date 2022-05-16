@@ -23,8 +23,10 @@ The player wins if they are able to guess the number correctly.
 __
 
 ## Wireframe
+This site was built using [GitHub Pages](https://pages.github.com/).
 
-https://docs.google.com/document/d/1z4IqVI4qehhktmOvKG7ohO-AGEqrgCP64zk2fTraamY/edit?usp=sharing
+
+[Number Guessing Game Wireframe](https://docs.google.com/document/d/1z4IqVI4qehhktmOvKG7ohO-AGEqrgCP64zk2fTraamY/edit?usp=sharing)
 
 Explanations of Specific Technologies
 -
