@@ -10,5 +10,6 @@ Approach Taken
 Unsolved Problems
 
 Link to Hosted Site
+https://wendyvosu.github.io/number-guessing-game/
 
 Installation Instructions
