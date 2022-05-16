@@ -1,5 +1,5 @@
 # number-guessing-game
-## Play Now
+# Play Now
 
 Link to Hosted Site
 -
