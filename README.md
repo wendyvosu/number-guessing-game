@@ -22,7 +22,7 @@ The player wins if they are able to guess the number correctly.
 3. If the player guesses incorrectly, the player loses a turn. Each time the player loses a turn, genie will take a turn guessing a number. Both the player and genie is allowed 10 turns each. Once the player is out of turns and is unable to guess the correct number, they lose to genie.
 
 Wireframe: https://docs.google.com/document/d/1z4IqVI4qehhktmOvKG7ohO-AGEqrgCP64zk2fTraamY/edit?usp=sharing
-
+-
 Explanations of Specific Technologies
 -
 -Built with HTML, CSS, JavaScript, and the DOM on VS Code.
