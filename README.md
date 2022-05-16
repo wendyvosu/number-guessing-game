@@ -24,7 +24,7 @@ The player wins if they are able to guess the number correctly.
 ## Wireframe
 -
 https://docs.google.com/document/d/1z4IqVI4qehhktmOvKG7ohO-AGEqrgCP64zk2fTraamY/edit?usp=sharing
--
+
 Explanations of Specific Technologies
 -
 -Built with HTML, CSS, JavaScript, and the DOM on VS Code.
