@@ -28,7 +28,7 @@ __
 
 Explanations of Specific Technologies
 -
--Built with HTML, CSS, JavaScript, and the DOM on VS Code.
+Built with HTML, CSS, JavaScript, and the DOM on VS Code.
 
 Approach Taken
 -
@@ -38,15 +38,15 @@ Approach Taken
 
 Technical Details
 -
--The script of the game uses four separate functions: checking the user's guess, checking the computer's guess, ending the game, and resetting the game. 
+The script of the game uses four separate functions: checking the user's guess, checking the computer's guess, ending the game, and resetting the game. 
 
 Technical Challenges
 -
--Preventing page refreshing once the functions have passed. 
+Preventing page refreshing once the functions have passed. 
 
 Unsolved Problems
 -
--Minor styling issues.
+Minor styling issues.
 
 Future Improvements
 -
