@@ -1,6 +1,6 @@
 # number-guessing-game
 
-Wireframe: https://lucid.app/lucidchart/b9e09a81-259e-44af-a54f-6cafa7cf6938/edit?invitationId=inv_8e21cab3-56af-46b7-bc18-34cead20eac3
+Wireframe: https://docs.google.com/document/d/1z4IqVI4qehhktmOvKG7ohO-AGEqrgCP64zk2fTraamY/edit?usp=sharing
 
 Explanations of Specific Technologies: 
 -Built with HTML, CSS, JavaScript, and the DOM on VS Code.
